@@ -1,0 +1,253 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -28.87479591369629
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -28.92807960510254
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -35.77138900756836
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁committee",
+                "."
+            ],
+            "score": -36.07004165649414
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -36.14079666137695
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁government",
+                "."
+            ],
+            "score": -36.344024658203125
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -42.358917236328125
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁committee",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -42.412715911865234
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -43.71415328979492
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁is",
+                "▁not",
+                "▁that",
+                "▁that",
+                "▁the",
+                "▁government",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                ".",
+                "."
+            ],
+            "score": -49.14169692993164
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjQtMTAtMjhUMTQ6NTU6MzYuNjI1MDQwIiwgImgiOiAiU0VBTkdVQU4tTkIxIiwgInUiOiAiU2VhbiJ9"
+}
